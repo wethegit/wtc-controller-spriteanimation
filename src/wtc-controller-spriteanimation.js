@@ -8,9 +8,11 @@
   - *Requirements*    jQuery, wtc.responsive.Breakpoints
   - *Description*     .
   - *Edited by*       Liam Egan
-  - *Edited*          2016-06-17 16:05:50
+  - *Edited*          2016-06-20 11:52:10
   - *Version*         0.1
 */
+; 'use strict';
+
 (function()
 {
   var _base;
